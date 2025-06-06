@@ -62,7 +62,8 @@ Add your Firebase config in firebaseConfig.js.
 Set Clerk frontend API and publishable keys in your .env file.
 
 📸 Screenshots 
-![WhatsApp Image 2025-06-07 at 00 59 27_49867a22](https://github.com/user-attachments/assets/9f999e7a-1f83-42a2-a3a7-275853fd3daa)
+![Screenshot 2025-04-27 233806](https://github.com/user-attachments/assets/5e4871e9-6dc2-4838-87e1-8d2eb9fb0b64)
+
 ![WhatsApp Image 2025-06-07 at 00 59 27_d24e6136](https://github.com/user-attachments/assets/5b3810a1-6d19-4f03-83a4-629ccf63edaf)
 ![WhatsApp Image 2025-06-07 at 00 59 27_217173b4](https://github.com/user-attachments/assets/e22d2775-49b8-4b91-9c4e-51593756d16d)
 ![WhatsApp Image 2025-06-07 at 00 59 28_7c15dd60](https://github.com/user-attachments/assets/7198a1d9-1e79-4e25-be46-aaca80c259c5)
