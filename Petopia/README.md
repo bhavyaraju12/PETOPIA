@@ -64,15 +64,21 @@ Set Clerk frontend API and publishable keys in your .env file.
 📸 Screenshots 
 ![Screenshot 2025-04-27 233806](https://github.com/user-attachments/assets/5e4871e9-6dc2-4838-87e1-8d2eb9fb0b64)
 
-![WhatsApp Image 2025-06-07 at 00 59 27_d24e6136](https://github.com/user-attachments/assets/5b3810a1-6d19-4f03-83a4-629ccf63edaf)
-![WhatsApp Image 2025-06-07 at 00 59 27_217173b4](https://github.com/user-attachments/assets/e22d2775-49b8-4b91-9c4e-51593756d16d)
-![WhatsApp Image 2025-06-07 at 00 59 28_7c15dd60](https://github.com/user-attachments/assets/7198a1d9-1e79-4e25-be46-aaca80c259c5)
-![WhatsApp Image 2025-06-07 at 00 59 28_70efd1fe](https://github.com/user-attachments/assets/a39b2929-ff9b-4cad-a758-bc1cc55df9ef)
-![WhatsApp Image 2025-06-07 at 00 59 28_2fb86c81](https://github.com/user-attachments/assets/4a97c30a-7a19-4d4e-9848-b20cbf343bc3)
-![WhatsApp Image 2025-06-07 at 00 59 29_7a9c15a1](https://github.com/user-attachments/assets/56c6cf95-266c-4ae9-a8b0-5c36188b9bc9)
-![WhatsApp Image 2025-06-07 at 00 59 29_82b3147b](https://github.com/user-attachments/assets/d4397e32-f8da-44a0-a14e-dfd3927d21c6)
-![WhatsApp Image 2025-06-07 at 00 59 29_d9a9c037](https://github.com/user-attachments/assets/46b70175-df28-4e20-bcaa-bc27ea0184fe)
+![WhatsApp Image 2025-06-07 at 00 59 29_ffa49c0b](https://github.com/user-attachments/assets/8faa51e7-f28d-4d8e-91eb-059a54329aec)
 
+![WhatsApp Image 2025-06-07 at 00 59 29_e7cf11f8](https://github.com/user-attachments/assets/4b10f604-cf74-4e07-abc6-2e58d48ef8af)
+
+![WhatsApp Image 2025-06-07 at 00 59 29_96fca6e9](https://github.com/user-attachments/assets/5cbc29ad-76d8-4966-b7b8-6af8b3bfa6aa)
+
+![WhatsApp Image 2025-06-07 at 00 59 28_9e880cb4](https://github.com/user-attachments/assets/3e66a9b1-ca13-4d0f-9591-48b08b3e6490)
+
+![WhatsApp Image 2025-06-07 at 00 59 28_437850ea](https://github.com/user-attachments/assets/12bf4de1-257f-4ec2-97c2-2c30011eca18)
+
+![WhatsApp Image 2025-06-07 at 00 59 28_531440e9](https://github.com/user-attachments/assets/b48e7d2b-1785-46b8-a034-ab52e01217da)
+
+![WhatsApp Image 2025-06-07 at 00 59 27_e4331b1e](https://github.com/user-attachments/assets/870e0b8d-dd75-41a9-bde4-547b7fe6e786)
+
+![WhatsApp Image 2025-06-07 at 00 59 27_1cf61dad](https://github.com/user-attachments/assets/6e833bc6-e0b8-4c10-bdce-bb6b85c77b72)
 
 
 📍 Roadmap
